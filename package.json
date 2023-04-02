@@ -1,0 +1,18 @@
+{
+  "name": "entrega3probando",
+  "version": "1.0.0",
+  "description": "Entrega de proyecto 3, ocupar api y chart.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Claudio-Gana"
+  },
+  "keywords": [
+    "Chamu1358"
+  ],
+  "author": "Chamu",
+  "license": "ISC"
+}
