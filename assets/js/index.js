@@ -1,7 +1,7 @@
-import indicadorUf from './components/indicadorUf.js';
-import indicadorDolar from './components/indicadorDolar.js';
-import indicadorBitcoin from './components/indicadorBitcoin.js';
-import indicadorEuro from './components/indicadorEuro.js';
+import indicadorUf from '../../components/indicadorUf.js';
+import indicadorDolar from '../../components/indicadorDolar.js';
+import indicadorBitcoin from '../../components/indicadorBitcoin.js';
+import indicadorEuro from '../../components/indicadorEuro.js';
 
 
 const ctx= document.getElementById('indicators')
